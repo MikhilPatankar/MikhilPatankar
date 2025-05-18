@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6c72fcca-e4b7-437b-8dae-126febf6185a" alt="Dynamic Banner" width="90%"/>
+  <img src="https://github.com/user-attachments/assets/ce73836a-453b-4fb1-952e-cb624d108e1b" alt="Dynamic Banner" width="90%"/>
   <!-- https://github.com/user-attachments/assets/321219d0-a4c0-42cc-8198-6214183d8c3a -->
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=ca4cb7&center=true&vCenter=true&width=500&lines=Digital+Cosmic+Puzzle;Anticipating+What's+Ahead!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Digital+Cosmic+Puzzle;Anticipating+What's+Ahead!" alt="Typing SVG" />
   </a>
 </p>
 
